@@ -1,0 +1,14 @@
+{
+  "name": "exercise-3",
+  "version": "1.0.0",
+  "description": "## Description An exercise that provides an array of items along with a set of questions about the data.",
+  "main": "items.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
